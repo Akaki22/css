@@ -1,0 +1,42 @@
+*/*{
+    color: chocolate;
+    background-color: bisque;
+}
+h2{
+    color: beige;
+}
+ note*/
+ /*
+ .heading-class{
+    color: aqua;
+    background-color: blueviolet;
+
+ }
+
+ .p2{
+    color: chartreuse;
+    background-color: burlywood;
+ } */
+
+  .heading{
+    color: red;
+  }
+  button{
+    background-color: green;
+  }
+
+  #id1{
+    text-align: center;
+  }
+  #id2{
+    text-align: center;
+    text-decoration: wavy;
+    text-decoration-line: underline;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrows', Arial, sans-serif;
+    text-transform: capitalize;
+  }
+  
+#id3{
+    
+}
